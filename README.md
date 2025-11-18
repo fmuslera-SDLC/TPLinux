@@ -1,6 +1,6 @@
 # Trabajo Práctico Integrador
 
-## 🧑‍🤝‍🧑 Integrantes del grupo
+## Integrantes del grupo
 - Felipe Julian Muslera
 - Franco Denis
 - Matias Fito Reussi
